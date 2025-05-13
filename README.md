@@ -4,7 +4,10 @@ Arquivos elaborados durante as aulas no Senac
 Maria Eduarda Fergutz - Aluna
 
 #kotlin
-Arquivo: https://pl.kotl.in/UXcT-AdIP
+Arquivo Carteira Motorista: https://pl.kotl.in/UXcT-AdIP
 
 #Kotlin
-Arquivo: https://pl.kotl.in/I7TKqegCr
+Arquivo Lista de Fruta: https://pl.kotl.in/I7TKqegCr
+
+#Kotlin:
+Arquivo Semáforo: https://pl.kotl.in/GeNOyYy2Y
