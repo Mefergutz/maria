@@ -25,3 +25,5 @@ Arquivo Soma: https://pl.kotl.in/QopK1J8hp
 #Kotlin Nº Maior e Menor: https://pl.kotl.in/8Gy0VwMPx
 
 #Kotlin Notas: https://pl.kotl.in/ZtzBApY0Z
+
+#Kotlin IMC: https://pl.kotl.in/wQnhTihTZ
