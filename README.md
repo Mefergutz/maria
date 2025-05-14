@@ -21,3 +21,7 @@ Arquivo Soma: https://pl.kotl.in/QopK1J8hp
 #Kotlin Calculadora: https://pl.kotl.in/Q_NGrfHbm
 
 #Kotlin Celsius: https://pl.kotl.in/iAtqELtJJ
+
+#Kotlin Nº Maior e Menor: https://pl.kotl.in/8Gy0VwMPx
+
+#Kotlin Notas: https://pl.kotl.in/ZtzBApY0Z
