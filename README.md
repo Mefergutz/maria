@@ -27,3 +27,9 @@ Arquivo Soma: https://pl.kotl.in/QopK1J8hp
 #Kotlin Notas: https://pl.kotl.in/ZtzBApY0Z
 
 #Kotlin IMC: https://pl.kotl.in/wQnhTihTZ
+
+#Kotlin Pontos Turisticos: https://pl.kotl.in/pe0WO4ukI
+
+#Kotlin Lista Mercado: https://pl.kotl.in/Kgs9X6u5j
+
+#Kotlin Transportes: https://pl.kotl.in/pFtoyc4G-
